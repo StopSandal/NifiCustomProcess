@@ -1,6 +1,10 @@
 # NiFi Custom Processor Project
 
-## English Instructions
+## Russian Instructions
+
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/StopSandal/NifiCustomProcess/blob/master/README.ru.md)
+
+## English Instructions 
 
 This repository provides a template for creating custom Apache NiFi processors using Java and Maven. The project includes the necessary configuration to create a NAR (NiFi Archive) file that can be deployed in a NiFi instance.
 
