@@ -2,7 +2,7 @@
 
 ## Russian Instructions
 
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/StopSandal/NifiCustomProcess/blob/master/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/StopSandal/NifiCustomProcess/blob/master/Readme.ru.md)
 
 ## English Instructions 
 
